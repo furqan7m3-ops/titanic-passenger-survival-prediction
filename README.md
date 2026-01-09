@@ -8,4 +8,3 @@
  - Fastapi
  - Pydantic
  - Sklearn (For models)
- - 
